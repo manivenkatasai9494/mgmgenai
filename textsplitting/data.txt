@@ -1,0 +1,171 @@
+a1: CVR College of Engineering (CVRCE) is a private autonomous engineering college near Ibrahimpatnam, Hyderabad, affiliated to JNTU Hyderabad,known for strong placements and is managed by the Cherabuddi Education Society.
+a2: The Society seeks to harness the technical expertise and financial support of NRIs to make CVR College of Engineering a pre-eminent technical institution.
+a3: Dr. Raghava V Cherabuddi is an NRI member of the Cherabuddi Education Society.
+a4: Dr. Raghava V Cherabuddi holds degrees including BE in Computer Science, MS in Computer Science, MS in Computer Engineering, and a PhD in Computer Engineering from the USA.
+a5: Dr. Raghava V Cherabuddi previously worked with Microsoft Corporation as an Academic Alliance Manager and with Intel Corporation in the USA for about twelve years.
+a6: Dr. Raghava V Cherabuddi has published over ten research papers in international conferences and returned to India after living in the USA for sixteen years.
+a7: The principal of CVR College is Dr.K.Ramamohan Reddy,Professor of Civil Engineering & Principal.
+a8: The director of CVR College is Prof. K. Rama Sastri, B.E., M.E., Ph.D.(IIT Madras), 1976
+AR1: A minimum of 75 percent attendance is required to appear for end semester examinations.
+AR2: Students who fail in more than two subjects in a semester must repeat the semester.
+AR3: Medical leave can be applied by submitting valid documents to the academic office.
+AR4: B.Tech is a 4‑year (8‑semester) programme, each semester of 22 weeks with at least 90 instructional days.
+AR5: Admission is through TS EAMCET or other university/government‑approved merit criteria with statutory reservations.
+AR6: Attendance can be condoned down to 65% on genuine grounds with a fee; below 65% leads to detention and re‑registration of that semester when offered.​
+AR7: Each course is for 100 marks: 40 internal (CIE) + 60 external (SEE).
+AR8: 10‑point absolute grading scale (S, A+, A, B+, B, C, P, F, Ab) is used; SGPA and CGPA are computed over registered credits and must be ≥5.0 to be considered passed in the semester/programme.
+AR9: A student shall be promoted to the next academic year only if they secure the minimum prescribed credits in the preceding semesters as per promotion rules.
+AR10: Supplementary examinations are conducted for failed theory and laboratory courses, and the better of the two performances will be retained wherever applicable.
+AR11: Indulgence in malpractice during examinations shall result in cancellation of the performance in that course and may attract additional disciplinary action as per regulations.
+AR12: Students may apply for revaluation or recounting of answer scripts within the notified time by paying the prescribed fee.
+AR13: Industry-oriented mini project shall be completed as per the academic calendar and carries credits as defined in the curriculum.
+AR14: Final year project work is evaluated through continuous assessment and a final viva-voce examination conducted by an internal and external examiner.
+AR15: A break in study is permitted only with prior approval of the college academic council and the student must rejoin under the regulations in force at the time of readmission.
+AR16: To be eligible for the award of the B.Tech degree, a student must earn all prescribed credits, clear all courses, and satisfy the minimum CGPA requirement as per academic regulations.
+AR17: A student must register for all courses offered in a semester; withdrawal from a course is permitted only within the notified time period with approval from the academic council.
+AR18: Makeup tests are provided only for genuine medical or emergency reasons and require supporting documents approved by the department.
+AR19: For a theory course, a student is declared passed only if they secure the minimum required marks separately in internal assessment and semester-end examinations.
+AR20: Backlog courses must be cleared through supplementary examinations, and credits are awarded only after passing all components of the course.
+AR21: Improvement of internal assessment marks may be permitted in the subsequent offering of the course as per the academic guidelines.
+AR22: Students must strictly adhere to examination rules; possession of unauthorized material or use of unfair means will lead to cancellation of the exam and further disciplinary action.
+AR23: SGPA is computed at the end of each semester based on credits registered and grade points earned; CGPA is computed cumulatively over all completed semesters.
+AR24: A student is considered to have completed the programme only when all registered courses, laboratories, and project components are successfully cleared.
+AR25: Break of study due to medical or personal reasons must be formally requested and approved; upon readmission, the student will follow the regulations in force at that time.
+AR26: Students are required to maintain academic integrity in all submissions including assignments, laboratory records, project reports, and publications.
+AR27: For laboratory courses, attendance, continuous evaluation, and performance in the final practical examination together determine the final grade.
+AR28: If a student is detained due to shortage of attendance, all internal marks obtained in that semester stand cancelled and the student must repeat the semester.
+AR29: Grace marks or moderation, if applicable, are awarded only as per approved academic council guidelines and cannot be claimed as a right.
+AR30: Students must follow the academic calendar schedule for registrations, fee payments, internal assessments, and examination form submissions.
+c1: The college offers a B.Tech program in Civil Engineering with an intake of 60 seats for the academic year 2025-26.
+c2: The college offers a B.Tech program in Computer Science and Business Systems with an intake of 60 seats for the academic year 2025-26.
+c3: The college offers a B.Tech program in Computer Science and Engineering with an intake of 660 seats for the academic year 2025-26.
+c4: The college offers a B.Tech program in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning with an intake of 240 seats for the academic year 2025-26.
+c5: The college offers a B.Tech program in Computer Science and Engineering with specialization in Data Science with an intake of 240 seats for the academic year 2025-26.
+c6: The college offers a B.Tech program in Computer Science and Engineering with specialization in Cyber Security with an intake of 180 seats for the academic year 2025-26.
+c7: The college offers a B.Tech program in Electronics and Communication Engineering with an intake of 120 seats for the academic year 2025-26.
+c8: The college offers a B.Tech program in Electronics Engineering with specialization in VLSI Design and Technology with an intake of 60 seats for the academic year 2025-26.
+c9: The college offers a B.Tech program in Electrical and Electronics Engineering with an intake of 60 seats for the academic year 2025-26.
+c10: The college offers a B.Tech program in Electronics and Instrumentation Engineering with an intake of 60 seats for the academic year 2025-26.
+c11: The college offers a B.Tech program in Information Technology with an intake of 120 seats for the academic year 2025-26.
+c12: The college offers a B.Tech program in Mechanical Engineering with an intake of 60 seats for the academic year 2025-26.
+c13: The Computer Science Engineering program includes subjects such as Data Structures, Operating Systems, DBMS, and Machine Learning.
+c14: Elective courses are offered from the third year onwards based on department guidelines.
+c15: CVR College of Engineering offers B.Tech. courses in Civil, CSBS, CSE, CSE (Artificial Intelligence and Machine Learning), CSE (Cyber Security), CSE (Data Science), ECE, EEE, EE (VLSI), EIE, IT and Mechanical Engineering.
+c16: At CVRCE, all B.Tech. students are provided options to take-up Minor programme in Artificial Intelligence & Machine Learning, Cyber Security, Data Science and Internet of Things from third year.
+c17: The college offers an M.Tech program in Artificial Intelligence with an intake of 18 seats.
+c18: The college offers an M.Tech program in Data Sciences with an intake of 18 seats.
+c19: The college offers an M.Tech program in Electrical Power Engineering with an intake of 18 seats.
+c20: The college offers an M.Tech program in Embedded Systems with an intake of 18 seats.
+c21: The college offers an M.Tech program in Structural Engineering with an intake of 18 seats.
+c22: The college offers an M.Tech program in VLSI Design with an intake of 18 seats.
+e1: The Examination Branch of the college is well established and equipped with modern equipment for conducting examinations and publishing results.
+e2: The Examination Branch is supported by adequate experienced teaching and non-teaching staff.
+e3: The functioning of the entire Examination Branch, including spot valuation, is continuously monitored using state-of-the-art equipment.
+e4: Examination data storage and backup systems are protected using encryption techniques.
+e5: Certificates and official documents issued by the Examination Branch contain multiple security features.
+e6: The Examination Branch is continuously upgraded with the latest technologies to improve examination processes.
+e7: Dr. S. Venkateshwarlu, Professor in the Electrical and Electronics Engineering department, serves as the Controller of Examinations.
+e8: Students can contact the Examination Branch via email at coe@cvr.ac.in for examination-related queries.
+e9: End semester examinations are conducted in November and April every academic year.
+e10: Hall tickets must be downloaded from the college portal before the examination.
+e11: For the CVR exam results, please visit https://results.cvr.ac.in/cvrresults1/resulthome.php
+F1: Dr. S.V. Suryanarayana, M.Tech., Ph.D is the Head of the Data Science Department.
+F2: Faculty office hours are generally from 9 AM to 4 PM on working days.
+F3: Associate professors of CSE (Data Science) Department are Dr. LNC Prakash K, Dr. A. Srinivasa Reddy,  Dr. Varaprasad Rao M, Dr. Rama Krishna B , Dr. Shaik Janbhasha, Dr. Basavaraj Chunchure,  Dr. M. Sreenu
+h1: The college provides on-campus hostel accommodation as a major support service for students.
+h2: Hostel facilities were established during the academic year 2009-10 to support a residential campus environment.
+h3: The college believes that a residential campus offers a superior environment for academic learning.
+h4: Hostel facilities are designed to provide a comfortable and supportive living environment for students staying on campus.
+h5: Students residing in the hostel have access to a wide range of activities, facilities, and support services.
+h6: The college has two boys' hostels and two girls' hostels located on campus.
+h7: The combined accommodation capacity of all hostels is 1,250 students for the academic year 2025-26.
+h8: The annual hostel fee for boys and girls is Rs. 1,60,000 for air-conditioned rooms during the academic year 2025-26.
+h9: The annual hostel fee for boys and girls is Rs. 1,35,000 for non air-conditioned rooms during the academic year 2025-26.
+h10: A refundable caution deposit of Rs. 10,000 is collected from students at the time of hostel admission.
+i1: The College is spread over a built-up area of over 36,000 sqm. on a sprawling 33-acre campus amidst verdant surroundings.
+i2: The college has a total of 119 laboratories across all departments, including computer labs, electronics labs, mechanical labs, and other departmental laboratories.
+i3: For the campus tour, you can visit https://cvr.ac.in/home4/index.php/campus/campus-tour.
+i4: The college has exactly 31 computer laboratories dedicated to computing and IT-related academic activities.
+i5: Computer labs are equipped with the latest Lenovo, Dell, and Apple servers and computer systems.
+i6: The campus provides high speed internet connectivity of approximately 2 Gbps along with campus-wide Wi-Fi access.
+i7: The quality of computing and network infrastructure enables the college to regularly host online examinations for recruitment processes conducted by various companies.
+i8: The college was the only institution in the Telangana region selected to host the inaugural Smart India Hackathon.
+i9: All faculty members are provided with personal computers or laptops with high speed internet access.
+i10: Professors are provided with high-end laptops along with laser printer and scanner facilities for academic use.
+i11: Students are provided with appropriate internet access to support learning and academic activities.
+i12: Computing equipment is regularly upgraded, and previously used equipment is donated to local schools.
+i13: The college has multiple departmental laboratories that support academic and practical learning across various programs.
+i24: The Student Centre is an independent four story building which houses various facilities such as canteen, gym, indoor sports facilities, and placement office.
+i25: The college health centre provides essential medical services for students and staff.
+i26: The health centre has a dedicated doctor and a small team of nurses to provide medical care.
+i27: Basic inpatient facilities are available at the health centre, including a few beds for short-term care of students and staff.
+i28: The health centre is equipped with an ambulance to handle medical emergencies.
+i29: Patients can be transported from the college health centre to nearby hospitals when required.
+L1: The College has a dedicated three-storied building with a total area of 1460 Sqm, for the exclusive use of Library and Postgraduate Research facilities.
+L2: The College library has 87582 books, 17046 reference titles and 191 journals that cater to all the eight branches of engineering, as well as other disciplines.
+L3: A Digital Library has also been set up with 30 multimedia PCs, with full access to Digital Libraries of IEEE, ASME, ASCE, DELNET, IESTC, KNIMBUS with Remote Access, NDLI and NPTEL.
+L4: All major newspapers, news magazines and books of general interest (non-fiction, biographies, rare books etc.) are also made available.
+L5: College Bus facility is available up to 6:00 PM on all working days to allow students to spend time in the library.
+L14: Professor Incharge of the Library is Dr. Lalithendra Kurra 
+L15: The college library subscribes to a total of 193 print journals and magazines.
+L16: The college library provides access to 206 IEEE e-journals and e-books.
+L17: The library subscribes to 34 ASME e-journals.
+L18: The college library provides access to 38 ASCE e-journals.
+L19: The library offers access to 858 DELNET e-journals.
+L20: The college library provides access to 10,014 KNIMBUS e-journals.
+L21: The library offers access to 1,825 IESTC e-journals.
+L22: The college library provides access to 2,128 DELNET e-books.
+L23: The library offers access to 16,704 KNIMBUS e-books.
+p1: The college has a Centre for Student Services and Placement that provides personal and career counseling to students.
+p2: The Centre for Student Services and Placement helps students cope effectively with college life and future career challenges.
+p3: One of the major objectives of the placement centre is to assist students in obtaining internships and placements in reputed companies across various industrial sectors.
+p4: The placement centre also provides guidance and assistance to students seeking higher education opportunities.
+p7: Several personality development programs have been conducted by industry experts to enhance students’ professional skills.
+p8: CVR students have achieved the highest number of recruitments among institutions of similar age.
+p9: For nine consecutive years, CVR students have secured the highest number of placements through pool and on-campus recruitment drives.
+p10: Ms. Vijaya Mair serves as the Associate Dean for Campus and Corporate Relations and handles placement-related assistance.
+p11: Students can contact the placement office through the mobile number +91 9849877494 for placement-related queries.
+p12: The landline contact number for the placement office is 08414 661 663.
+p13: Students can reach the placement office via email at placement@cvr.ac.in or placement.cvr@gmail.com.
+p14: During the academic year 2024-25, the college recorded its highest placement performance among peer institutions.
+p15: Despite a continued economic recession, around 90 companies visited the campus for recruitment during the 2024-25 academic year.
+p16: Approximately 1,000 placement offers were made to students during the 2024-25 academic year.
+p17: The average salary offered to students increased to a new high during the 2024-25 placement season.
+p18: The highest salary package offered during the 2024-25 placements was Rs. 72,00,000 per annum.
+p19: More than 150 students received high salary offers during the 2024-25 placement season, setting a new record.
+p20: Around 250 placement offers made during 2024-25 were higher than Rs. 6 lakhs per annum.
+p21: The college emerged as one of the leading institutions in the state in terms of high salary placement offers during 2024-25.
+p22: The placement percentage during the 2024-25 academic year was higher compared to many premier institutions in the state and across the country.
+p23: Students become eligible for campus placements from the sixth semester.
+p24: The placement cell conducts mock interviews and aptitude training sessions.
+p25: For more placement info, please visit, https://cvr.ac.in/home4/index.php/placements page
+r1: The college has a well-defined research policy that covers research facilities and incentives.
+r2: The college provides good research infrastructure, including high-configuration computers and equipment for research project design and development.
+r3: The college provides seed money to support research activities and innovation.
+r4: The college has established an EDC and NewGen Incubation Center to promote entrepreneurship and innovation.
+r5: The college has specialized research centers including a UAV Design Center.
+r6: Centers for Advanced Antenna Design and Nano Technology Materials Research have been established with advanced software and equipment.
+r7: The college promotes innovation through patent filing by providing financial support and incentives.
+r8: The college provides paid study leave of six months on three occasions during the Ph.D. program.
+r9: Ph.D. scholars receive a research allowance of Rs. 60,000 and an incentive of Rs. 25,000 at three stages of their Ph.D.
+r10: Digital library and e-resource access is provided to students and faculty members to support research activities.
+r11: The CVR Journal of Science and Technology was started in the year 2011.
+r12: Faculty members are encouraged to publish research papers in standard national and international journals.
+r13: The institution ensures the implementation of a research code of ethics.
+r14: More than 2,000 research papers have been published by the college in SCOPUS and Web of Science indexed journals.
+r15: Twenty-two professors have been identified as research guides and supervisors.
+r16: The college regularly organizes workshops and seminars on research methodology, intellectual property rights, entrepreneurship, and skill development.
+S1: The college sports has two outdoor volleyball courts available for student use.
+S2: The college provides one outdoor basketball court for students.
+S3: The campus includes one outdoor throw ball court.
+S4: The college has one outdoor badminton court for sports activities.
+S5: The college has one cricket ground equipped with flood lights.
+S6: The campus includes one football ground for outdoor sports.
+S7: Indoor games facilities at the college include table tennis, chess, billiards, gym, and carroms.
+S8: High quality sports equipment is provided to students for all indoor and outdoor games.
+S9: The college has two full time sports coaches who provide guidance and training to students.
+S10: Sports facilities are used by students daily and during competitions organized for college events such as College Day.
+S11: College bus facilities are available up to 6:30 PM on all working days to support students participating in sports activities.
+S12: CVR College of Engineering offers a wide range of sports facilities for students.
+S13: CVR College of Engineering Outdoor sports facilities include volleyball courts, a basketball court, a throw ball court, a badminton court, a cricket ground with flood lights, and a football ground.
+S14: CVR College of Engineering Indoor sports facilities include table tennis, chess, gym, and carroms.
